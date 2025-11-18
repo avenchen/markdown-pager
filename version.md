@@ -1,5 +1,14 @@
 # 版本紀錄
 
+## 1.3 - 2025-11-17
+- 初始化 Git 儲存庫
+- 新增 `.gitignore` 排除建置檔案與設定檔
+- 新增 `README.md` 專案說明文件
+- 新增 `GITHUB_SETUP.md` GitHub 設定指南
+- 新增 `create_release.ps1` 自動化 Release 建立腳本
+- 新增 `create_release.md` Release 建立指南
+- 準備上傳至 GitHub
+
 ## 1.2 - 2025-11-17
 - 新增方向鍵快捷鍵支援：
   - 上一頁：上方向鍵（↑）
